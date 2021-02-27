@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
--- Copas - Coroutine Oriented Portable Asynchronous Services
+-- Copas - Coroutine Oriented Portable Asynchronous Servi
 --
 -- A dispatcher based on coroutines that can be used by TCP/IP servers.
 -- Uses LuaSocket as the interface with the TCP/IP stack.
